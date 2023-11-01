@@ -4,11 +4,15 @@ This README file provides an overview of the code for analyzing COVID vaccinatio
 
 Contributers:
 
-JEYAKMUAR N K
-DINESH BABU P K
-MOHAMED ARSATH T
-YASHWANTH  J A
-PRITHIVIRAJ  S D
+Jeyakumar N K
+
+Dinesh Babu P K
+
+Mohamed Arsath T
+
+Yashwanth  J A
+
+Prithivi Raj  S D
 
 Data Sources:
 The project utilizes two primary data sources:
