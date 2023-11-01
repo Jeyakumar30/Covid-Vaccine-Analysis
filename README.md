@@ -12,8 +12,8 @@ PRITHIVIRAJ  S D
 
 Data Sources:
 The project utilizes two primary data sources:
-- [country_vaccinations_by_manufacturer.csv](NM-Project/country_vaccinations_by_manufacturer.csv): Data on vaccine manufacturers.
-- [country_vaccinations.csv](NM-Project/country_vaccinations.csv): Country-level vaccination data.
+- country_vaccinations_by_manufacturer.csv: Data on vaccine manufacturers.
+- country_vaccinations.csv: Country-level vaccination data.
 
 Running the Code in Google Colab
 
@@ -75,39 +75,6 @@ country_vaccinations.csv => (86512, 15)
 
 6. Information About Given Data Sets
 Details about the data sets, such as data types and non-null counts, are presented.
-
-country_vaccinations_by_manufacturer.csv:
-Data columns (total 4 columns):
- #   Column              Non-Null Count  Dtype 
----  ------              --------------  ----- 
- 0   location            35623 non-null  object
- 1   date                35623 non-null  object
- 2   vaccine             35623 non-null  object
- 3   total_vaccinations  35623 non-null  int64 
-dtypes: int64(1), object(3)
-memory usage: 1.1+ MB
-
-country_vaccinations.csv:
-Data columns (total 15 columns):
- #   Column                               Non-Null Count  Dtype  
----  ------                               --------------  -----  
- 0   country                              86512 non-null  object 
- 1   iso_code                             86512 non-null  object 
- 2   date                                 86512 non-null  object 
- 3   total_vaccinations                   43607 non-null  float64
- 4   people_vaccinated                    41294 non-null  float64
- 5   people_fully_vaccinated              38802 non-null  float64
- 6   daily_vaccinations_raw               35362 non-null  float64
- 7   daily_vaccinations                   86213 non-null  float64
- 8   total_vaccinations_per_hundred       43607 non-null  float64
- 9   people_vaccinated_per_hundred        41294 non-null  float64
- 10  people_fully_vaccinated_per_hundred  38802 non-null  float64
- 11  daily_vaccinations_per_million       86213 non-null  float64
- 12  vaccines                             86512 non-null  object 
- 13  source_name                          86512 non-null  object 
- 14  source_website                       86512 non-null  object 
-dtypes: float64(9), object(6)
-memory usage: 9.9+ MB
 
 7. Vaccines Manufactured on a Particular Date
 The code filters and displays vaccines manufactured on a specific date from the manufacturer data set.
