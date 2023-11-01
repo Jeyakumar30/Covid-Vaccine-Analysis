@@ -12,12 +12,13 @@ Mohamed Arsath T
 
 Yashwanth  J A
 
-Prithivi Raj  S D
+Prithivi Raj S D
+
 
 Data Sources:
 The project utilizes two primary data sources:
-- country_vaccinations_by_manufacturer.csv: Data on vaccine manufacturers.
-- country_vaccinations.csv: Country-level vaccination data.
+- [country_vaccinations_by_manufacturer.csv](https://raw.githubusercontent.com/Jeyakumar30/NM-Project/main/country_vaccinations_by_manufacturer.csv): Data on vaccine manufacturers.
+- [country_vaccinations.csv](https://raw.githubusercontent.com/Jeyakumar30/NM-Project/main/country_vaccinations.csv): Country-level vaccination data.
 
 Running the Code in Google Colab
 
