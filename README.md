@@ -95,10 +95,10 @@ The code includes various visualizations, such as heatmaps, bar plots, and stati
 
 Analysed: 
 Heatmap Visualization to check correlation between attributes
-![1](https://github.com/Jeyakumar30/NM-Project/assets/121599159/1ffa30ef-2d48-4c3a-b4a5-8375735c2057)
+![1](https://github.com/Jeyakumar30/NM-Project/assets/121599159/666e079a-8f12-47e9-b44e-3a8fc26e5b46)
 
 Top countries in vaccinations Utilization
-![2](https://github.com/Jeyakumar30/NM-Project/assets/121599159/0ea01dc2-7f85-443f-9a9c-3b30d282d690)
+![2](https://github.com/Jeyakumar30/NM-Project/assets/121599159/785b6a6c-ac55-4daa-aa21-5a7750ea2cd1)
 
 Type of vaccine utilized Vs Count
-![3](https://github.com/Jeyakumar30/NM-Project/assets/121599159/55b0f7b4-3a53-4b24-ad6d-b5d5ea8f1207)
+![3](https://github.com/Jeyakumar30/NM-Project/assets/121599159/d233ca9f-f5ef-4f05-a2e2-8c736f9fa379)
