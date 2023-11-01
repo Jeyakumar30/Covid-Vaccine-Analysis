@@ -4,9 +4,9 @@ This README file provides an overview of the code for analyzing COVID vaccinatio
 
 Contributers:
 
+JEYAKMUAR N K
 DINESH BABU P K
 MOHAMED ARSATH T
-JEYAKMUAR N K
 YASHWANTH  J A
 PRITHIVIRAJ  S D
 
