@@ -1,8 +1,8 @@
-COVID VACCINATION ANALYIS  
+COVID Vaccine Analysis
 
 This README file provides an overview of the code for analyzing COVID vaccination data. The code includes data loading, preprocessing, and visualization to gain insights into global vaccination efforts. This project aims to comprehensively analyze Covid-19 vaccine data, specifically concentrating on vaccine effectiveness, distribution patterns, and adverse reactions. The primary objective is to generate actionable insights to assist policymakers and healthcare entities in enhancing their vaccination deployment strategies. 
 
-CONTRIBUTERS:
+Contributers:
 
 DINESH BABU P K
 MOHAMED ARSATH T
@@ -10,10 +10,10 @@ JEYAKMUAR N K
 YASHWANTH  J A
 PRITHIVIRAJ  S D
 
-Data Sources
+Data Sources:
 The project utilizes two primary data sources:
-- [country_vaccinations_by_manufacturer.csv](data/country_vaccinations_by_manufacturer.csv): Data on vaccine manufacturers.
-- [country_vaccinations.csv](data/country_vaccinations.csv): Country-level vaccination data.
+- [country_vaccinations_by_manufacturer.csv]([data/country_vaccinations_by_manufacturer.csv](https://raw.githubusercontent.com/Jeyakumar30/NM-Project/main/country_vaccinations_by_manufacturer.csv?token=GHSAT0AAAAAACJJ6JP4OA2EPEFHKHBR7QKEZKCRQWA)): Data on vaccine manufacturers.
+- [country_vaccinations.csv]([data/country_vaccinations.csv](https://raw.githubusercontent.com/Jeyakumar30/NM-Project/main/country_vaccinations.csv?token=GHSAT0AAAAAACJJ6JP5BBGU232XNPE2NFMCZKCROHQ)): Country-level vaccination data.
 
 Running the Code in Google Colab
 
@@ -124,10 +124,10 @@ The code includes various visualizations, such as heatmaps, bar plots, and stati
 
 Analysed: 
 Heatmap Visualization to check correlation between attributes
-![Alt text](1.png)
- gi
+![1](https://github.com/Jeyakumar30/NM-Project/assets/121599159/1ffa30ef-2d48-4c3a-b4a5-8375735c2057)
+
 Top countries in vaccinations Utilization
-![Alt text](2.png)
+![2](https://github.com/Jeyakumar30/NM-Project/assets/121599159/0ea01dc2-7f85-443f-9a9c-3b30d282d690)
 
 Type of vaccine utilized Vs Count
-![Alt text](3.png)
+![3](https://github.com/Jeyakumar30/NM-Project/assets/121599159/55b0f7b4-3a53-4b24-ad6d-b5d5ea8f1207)
