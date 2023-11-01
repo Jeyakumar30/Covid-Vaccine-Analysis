@@ -14,6 +14,8 @@ Yashwanth  J A
 
 Prithivi Raj S D
 
+1. Introduction
+This project involves the analysis of COVID-19 vaccination data using Python and various data analysis libraries. The analysis is performed on two datasets: one containing information about vaccine manufacturers, and the other containing country-level vaccination data.
 
 Data Sources:
 The project utilizes two primary data sources:
@@ -29,9 +31,12 @@ To run the code in Google Colab, follow these steps:
 3. Copy and paste the code from `vaccine_data_analysis.py` into the Colab notebook.
 4. Upload the dataset files `country_vaccinations_by_manufacturer.csv` and `country_vaccinations.csv` to your Google Drive.
 5. Mount your Google Drive in the Colab notebook using the following code:
+# Import the drive module from google.colab
+from google.colab import drive
 
-1. Introduction
-This project involves the analysis of COVID-19 vaccination data using Python and various data analysis libraries. The analysis is performed on two datasets: one containing information about vaccine manufacturers, and the other containing country-level vaccination data.
+# Mount Google Drive at /content/drive
+drive.mount('/content/drive')
+
 
 2. Required Libraries
 The code utilizes the following libraries:
