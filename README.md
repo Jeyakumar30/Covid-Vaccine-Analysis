@@ -31,7 +31,9 @@ To run the code in Google Colab, follow these steps:
 3. Copy and paste the code from `vaccine_data_analysis.py` into the Colab notebook.
 4. Upload the dataset files `country_vaccinations_by_manufacturer.csv` and `country_vaccinations.csv` to your Google Drive.
 5. Mount your Google Drive in the Colab notebook using the following code:
+
 Import the drive module from google.colab
+
 from google.colab import drive
 
 Mount Google Drive at /content/drive
